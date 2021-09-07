@@ -1,2 +1,7 @@
-# IASC-1P04
-My Repository for all things IASC-1P04 course at Brock University
+# IASC-1P04 | Bryan Bedard
+
+Welcome to the website for my Twine game, made for the IASC-1P04 course at Brock University.
+
+## Playtest
+
+playtest my game [here]()
