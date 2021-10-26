@@ -3,7 +3,7 @@ by Beluga Ten
 
 2021 - Licensed under
 Creative Commons
-Attribution Noncommercial (3.0)
+Attribution Noncommercial (3.0) (https://creativecommons.org/licenses/by-nc/3.0/)
 link: http://ccmixter.org/files/Beluga/64132
 
   ---
