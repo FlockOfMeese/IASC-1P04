@@ -1,6 +1,11 @@
-# IASC-1P04 | Bryan Bedard
+# Muskokan Isles by Bryan Bedard
+## IASC 1P04
 
-Welcome to the website for my Twine game, made for the IASC-1P04 course at Brock University.
+Muskokan Isles is a game about appreciating nature. Players are thrown into a strange, unfamiliar place, somewhere in Ontario's cottage country. Using the gifts of nature's bounty, players must find ways to survive, and reach civilization once again. Muskokan Isles is inspired by games such as "Minecraft", "Stardew Valley", and "The Legend of Zelda: Breath of the Wild", as well as my own experiences exploring parts of Ontario, the province I call home. Muskokan Isles is meant to help players experience nature from the comfort of home.
+
+## Play Now
+
+Play Muskokan Isles [here](final_build/MuskokanIsles_Final.html)
 
 ## Playtest
 
